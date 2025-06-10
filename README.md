@@ -13,17 +13,18 @@
 
 - 👯 I’m looking to collaborate on [MaaS](https://github.com/ankitklu/MaaS)
 
-- 👨‍💻 All of my projects are available at [https://ankit-portfolio-liard-eight.vercel.app/](https://ankit-portfolio-liard-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [Ankit's Portfolio](https://ankit-portfolio-liard-eight.vercel.app/)
 
-- 📝 I regularly write articles on [https://read.learnyard.com/dsa/](https://read.learnyard.com/dsa/)
+- 📝 I regularly write articles on [DSA Content](https://read.learnyard.com/dsa/)
 
 - 💬 Ask me about **Java, Express.js**
 
 - 📫 How to reach me **ankit.klu.2022@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lXnbUwO6b6rMn_T3bD1VuXlwoJd-VhWi/edit#heading=h.383bld1zb6ea](https://docs.google.com/document/d/1lXnbUwO6b6rMn_T3bD1VuXlwoJd-VhWi/edit#heading=h.383bld1zb6ea)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1lXnbUwO6b6rMn_T3bD1VuXlwoJd-VhWi/edit#heading=h.383bld1zb6ea)
 
 - ⚡ Fun fact **I am 70% Data Structure and Algorithms and 30% Development**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -50,3 +51,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitklu&show_icons=true&locale=en" alt="ankitklu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitklu&" alt="ankitklu" /></p>
+
+## 🧑‍💼 Work Experience
+
+### <img src="https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-1985c.appspot.com/o/ly.png?alt=media&token=c16def54-769c-4988-b213-9e36957d4b09" alt="LearnYard Logo" width="90"/> Software Engineer Intern @ LearnYard Technologies FZ-LLC  
+**📆 Duration:** April 2025 - Present • 2 mos  
+**🌍 Location:** United Arab Emirates (Remote) 
+
+- Worked with **TypeScript**, **Node.js**, **Fastify** to build scalable backend services.
+- Built features for LearnYard’s DSA platform and optimized performance.
+- Collaborated across teams in an agile environment.
+- Built LearnYard's Chrome Extension using Plasmo + React.js to track user's Leetcode progress.
+
+---
+
+### <img src="https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-1985c.appspot.com/o/aximos.png?alt=media&token=7f1c60eb-8abf-4a1e-83a0-50b445d22eac" alt="Aximos Logo" height="60" width="180"/> Backend Developer Intern @ Aximos.  
+**📆 Duration:** Feb 2025 - April 2025 • 3 mos  
+**🌍 Location:** Bengaluru
+
+- Worked on developing a laundry management system for 4000+ users with Firebase and Node.js as a backend. Successfully integrated payment gateways.
+- Developed and deployed a mobility service integrating Google Analytics and Google API using Node.js on AWS, ensuring 80% faster user and admin renders.
+
