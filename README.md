@@ -1,6 +1,50 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Mishra</h1>
 <h3 align="center">A consistent learner !!</h3>
 
+---
+
+## 🧑‍💼 Work Experience
+
+### <img src="https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-1985c.appspot.com/o/ly.png?alt=media&token=c16def54-769c-4988-b213-9e36957d4b09" alt="LearnYard Logo" width="60"/> Software Engineer Intern @ LearnYard Technologies FZ-LLC  
+**📆 Duration:** April 2025 - Present • 2 mos  
+**🌍 Location:** United Arab Emirates (Remote) 
+
+- Worked with **TypeScript**, **Node.js**, **Fastify** to build scalable backend services.
+- Built features for LearnYard’s DSA platform and optimized performance.
+- Collaborated across teams in an agile environment.
+- Built LearnYard's Chrome Extension using Plasmo + React.js to track user's Leetcode progress.
+
+---
+
+### <img src="https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-1985c.appspot.com/o/aximos.png?alt=media&token=7f1c60eb-8abf-4a1e-83a0-50b445d22eac" alt="Aximos Logo" height="60" width="180"/> Backend Developer Intern @ Aximos.  
+**📆 Duration:** Feb 2025 - April 2025 • 3 mos  
+**🌍 Location:** Bengaluru
+
+- Worked on developing a laundry management system for 4000+ users with Firebase and Node.js as a backend. Successfully integrated payment gateways.
+- Developed and deployed a mobility service integrating Google Analytics and Google API using Node.js on AWS, ensuring 80% faster user and admin renders.
+
+---
+
+### <img src="https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-1985c.appspot.com/o/ly.png?alt=media&token=c16def54-769c-4988-b213-9e36957d4b09" alt="LearnYard Logo" width="60"/> Project Intern @ LearnYard Technologies FZ-LLC  
+**📆 Duration:** Oct 2024 - April 2025 • 7 mos  
+**🌍 Location:** United Arab Emirates (Remote) 
+
+- Worked and Designed learnYard's DSA page.
+- Built DSA Content on Sliding Window Algorithms, Line Sweep Algorithms, Monotonic Stack, Prefix Sum, Greedy Algorithms.
+- Managed 4 interns on reviewing their work and collaborated with the Graphics Team to deliver attractive content.
+- Made the content SEO friendly and delivered more than 150+ DSA content on read.learnyard.com/dsa
+
+---
+
+
+### <img src="https://th.bing.com/th/id/OIP.EuN0YR4JXUdYkbPGVa9KhQHaFj?rs=1&pid=ImgDetMain" alt="Swiggy Logo" width="80"/> Campus CEO @ Swiggy
+**📆 Duration:** Jan 2024 - Mar 2024 • 3 mos  
+**🌍 Location:** KLU (Remote) 
+
+- Worked with the sales and marketing team in the campus
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitklu&label=Profile%20views&color=0e75b6&style=flat" alt="ankitklu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitklu" alt="ankitklu" /></a> </p>
@@ -52,23 +96,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitklu&" alt="ankitklu" /></p>
 
-## 🧑‍💼 Work Experience
-
-### <img src="https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-1985c.appspot.com/o/ly.png?alt=media&token=c16def54-769c-4988-b213-9e36957d4b09" alt="LearnYard Logo" width="90"/> Software Engineer Intern @ LearnYard Technologies FZ-LLC  
-**📆 Duration:** April 2025 - Present • 2 mos  
-**🌍 Location:** United Arab Emirates (Remote) 
-
-- Worked with **TypeScript**, **Node.js**, **Fastify** to build scalable backend services.
-- Built features for LearnYard’s DSA platform and optimized performance.
-- Collaborated across teams in an agile environment.
-- Built LearnYard's Chrome Extension using Plasmo + React.js to track user's Leetcode progress.
-
 ---
 
-### <img src="https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-1985c.appspot.com/o/aximos.png?alt=media&token=7f1c60eb-8abf-4a1e-83a0-50b445d22eac" alt="Aximos Logo" height="60" width="180"/> Backend Developer Intern @ Aximos.  
-**📆 Duration:** Feb 2025 - April 2025 • 3 mos  
-**🌍 Location:** Bengaluru
 
-- Worked on developing a laundry management system for 4000+ users with Firebase and Node.js as a backend. Successfully integrated payment gateways.
-- Developed and deployed a mobility service integrating Google Analytics and Google API using Node.js on AWS, ensuring 80% faster user and admin renders.
+
+
+
 
